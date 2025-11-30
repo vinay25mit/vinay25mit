@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinay Kumar
 
-### 💼 Software Developer at Infosys & Mentor at [Unstop](https://unstop.com)
+### Mentor at [Unstop](https://unstop.com)
 ### ⚡ Electrical Engineer turned Software Developer
 
 🚀 Passionate about building scalable web applications and mentoring aspiring developers.  
