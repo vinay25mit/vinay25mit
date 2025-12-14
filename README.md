@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Vinay Kumar
 
-### Mentor at [Unstop](https://unstop.com)
-### ⚡ Electrical Engineer turned Software Developer
+
 
 🚀 Passionate about building scalable web applications and mentoring aspiring developers.  
 I love transforming ideas into reality using modern web technologies and clean architecture.
